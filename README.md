@@ -46,5 +46,4 @@ Dataset can be downloaded from the provided source https://www.kaggle.com/datase
 7. **Model Evaluation** (R² Score, MAE, MSE)  
 8. **Visualization of Results**
 
-github.com/YourUsername/Car-Price-Prediction.git
-   cd Car-Price-Prediction
+
